@@ -1,4 +1,4 @@
-# Add disctintive class name to current navigation route
+# How to add a disctintive class name to current navigation route
 
 
 Everything started trying to solve this problem on my own project:
